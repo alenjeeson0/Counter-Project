@@ -8,7 +8,8 @@ A simple interactive counter web app built with vanilla HTML, CSS, and JavaScrip
 
 ## 📸 Preview
 
-> _Add a screenshot here_
+<img width="2557" height="1234" alt="Screenshot 2026-06-30 014046" src="https://github.com/user-attachments/assets/08e8c6fc-524e-48ce-9ac7-8bc4128d4937" />
+
 
 ## ✨ Features
 
@@ -37,7 +38,7 @@ counter-program/
 No installation needed. Just clone the repo and open `index.html` in your browser.
 
 ```bash
-git clone https://github.com/your-username/counter-program.git
+git clone https://github.com/alenjeeson0/Counter-Project.git
 cd counter-program
 ```
 

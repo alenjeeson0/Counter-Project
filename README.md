@@ -4,7 +4,7 @@ A simple interactive counter web app built with vanilla HTML, CSS, and JavaScrip
 
 ## 🔗 Live Demo
 
-> _Add your deployed link here (e.g. Netlify, GitHub Pages)_
+https://counter-program-mini-project.netlify.app
 
 ## 📸 Preview
 
